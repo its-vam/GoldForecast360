@@ -12,11 +12,17 @@ GoldForecast360 is a machine learning-powered web application that predicts the 
 
 ## Tech Stack
 
-- **Programming Languages**: Python
-- **Libraries**: Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Streamlit
-- **Deployment**: Docker, Google Cloud Run
-- **Version Control**: Git, GitHub
-- **Other Tools**: Google Cloud SDK, Pyngrok
+- **Programming Languages**: Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Libraries**: 
+  - Scikit-learn ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  - Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  - NumPy ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  - Seaborn ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+  - Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
+  - Streamlit ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- **Deployment**: Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white), Google Cloud Run ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- **Version Control**: Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Other Tools**: Google Cloud SDK ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white), Pyngrok ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E25?style=flat-square&logo=ngrok&logoColor=white)
 
 ## Screenshots
 
