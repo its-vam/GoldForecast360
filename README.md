@@ -30,5 +30,7 @@ GoldForecast360 is a machine learning-powered web application that predicts the 
    git clone https://github.com/its-vam/GoldForecast360.git
    cd GoldForecast360
 
+2. **Install Dependencies**:
+   ```bash
    pip install -r requirements.txt
 
